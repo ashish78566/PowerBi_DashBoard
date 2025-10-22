@@ -53,7 +53,7 @@ Copy code
 
 Here’s a preview of the dashboard 👇  
 
-![Dashboard Preview](https://github.com/ashish78566/PowerBi_DashBoard/blob/main/HR%20Analytics%20Dashboard/Dashboard/Screenshot%202025-10-22%20122441.png)
+![Dashboard Preview](https://github.com/ashish78566/PowerBi_DashBoard/blob/main/HR%20Analystics%20Dashboard/DashBoard/Screenshot%202025-10-22%20122441.png)
 
 ---
 
