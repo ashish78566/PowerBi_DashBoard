@@ -1,66 +1,63 @@
 # 🍦 Ice Cream Sales Analysis Dashboard
 
-## 📊 Project Overview  
-The **Ice Cream Sales Analysis Dashboard** is a Power BI-/Excel-style interactive visualisation that provides a high-level overview of sales performance across countries, years, months, and product categories. Users can filter by Country, Year, Month to view metrics and trends for orders, revenue, profit and units sold.
+## 📊 Project Overview
+The **Ice Cream Sales Analysis Dashboard** is an interactive Power BI visualization that provides a detailed overview of ice cream sales performance.  
+It helps analyze key business metrics such as revenue, profit, orders, and units sold across countries, years, and product categories — enabling better, data-driven decisions.
 
 ---
 
-## 🧾 Key Metrics  
-- **Total Orders (CY):** 12.19 K  
-- **Total Revenue (CY):** 28.64 M  
-- **Total Profit (CY):** 19.75 M  
-- **Total Units Sold (CY):** 916 K  
-
-📈 *Year-over-Year growth (decline):*  
-- Orders: -2.45%  
-- Revenue: -3.59%  
-- Profit: -3.59%  
-- Units: -3.32%
+## 🧾 Key Metrics
+| Metric | Current Year (CY) | Previous Year (PY) | Growth |
+|:--|:--|:--|:--|
+| **Orders** | 12.19K | 12.50K | 🔻 -2.45% |
+| **Revenue** | 28.64M | 29.71M | 🔻 -3.59% |
+| **Profit** | 19.75M | 20.48M | 🔻 -3.59% |
+| **Units Sold** | 916K | 947K | 🔻 -3.32% |
 
 ---
 
-## 🧩 Dashboard Highlights  
-- **Total Revenue by Subcategory**: Displays how “Regular”, “Micro”, “Super”, “Extra” segments contribute to overall revenue.  
-- **Total Revenue by Category**: Comparison between “General” and “Special” product lines.  
-- **Trends by Year & Product**: Shows year-on-year changes for specific product names (e.g., Quad, Carlota, Magnum, Bing, VanHalen, Linder, Alder).  
-- **Revenue by Quarter**: Quarter-wise revenue trend (Q1–Q4).  
-- **Monthly Revenue Trend**: Displays month-by-month movement in revenue (e.g., Jan, Feb, …, Dec) to highlight seasonality.
+## 🧩 Dashboard Highlights
+- **Total Revenue by Subcategory:** Visualizes sales contribution from *Extra*, *Super*, *Micro*, and *Regular* categories.  
+- **Revenue by Category:** Compares *General* and *Special* ice cream lines.  
+- **Trend Analysis:** Revenue performance across years, quarters, and months.  
+- **Product Analysis:** Shows product-wise performance (e.g., Magnum, Bing, VanHalen, Quad).  
+- **Interactive Filters:** Users can filter by **Country**, **Year**, and **Month** to explore trends.
 
 ---
 
-## 🗓️ Filters Available  
-- **Country**: Select a country (or All)  
-- **Year**: Select a year (or All)  
-- **Month**: Month selector (Jan-Dec)  
+## 🖼️ Dashboard Preview
 
-These allow for dynamic drill-downs and filter-driven analysis.
+Here’s a preview of the dashboard 👇
 
----
-
-## 🖼️ Preview Dashboard  
-Here are some screenshots of the dashboard interface:  
-
-![Dashboard Preview 1](path_to_image_1)  
-![Dashboard Preview 2](path_to_image_2)  
-![Dashboard Preview 3](path_to_image_3)  
-
-> **Tip:** Replace `path_to_image_…` with actual image links in your repository (e.g., `assets/dashboard-view.png` or direct GitHub raw links) so they render correctly on GitHub.
+![Dashboard Preview](https://github.com/ashish78566/PowerBi_DashBoard/blob/main/Ice%20Cream%20Sales%20Analysis/Dashboard/Screenshot%202025-10-18%20190428.png)
 
 ---
 
-## 🛠️ Tools Used  
-- **Microsoft Power BI** (or Microsoft Excel with Power Query / Power Pivot)  
-- Data modelling, DAX measures, interactive slicers  
-- Charts & visuals: KPI cards, pie charts, stacked bar charts, line charts, waterfall charts, etc.  
-- Dataset: Ice-cream sales data (orders, revenue, profit, units) across countries & years.
+## 🛠️ Tools Used
+- **Power BI Desktop**
+  - Power Query for data transformation  
+  - DAX measures for KPIs and calculations  
+  - Data modeling and relationship management  
+  - Interactive visuals and slicers  
+- **Excel (for initial data preparation)**
 
 ---
 
-## 👨‍💻 Author  
-**Ashish**  
-🔗 [GitHub Profile](https://github.com/ashish78566)
+## 🗂️ Filters Available
+- **Country**  
+- **Year**  
+- **Month**
+
+These allow users to drill down and analyze sales data for specific time frames and locations.
 
 ---
 
-## 📂 Project Structure  
+## 📈 Insights
+- Revenue shows a slight decline of ~3.6% YoY.  
+- The *Regular* subcategory contributes the most to total sales.  
+- Seasonal trend shows peak revenue around **August** (~8.3M).  
+- Q3 shows the highest overall sales (~22.55M).  
 
+---
+
+## 📂 Project Structure
