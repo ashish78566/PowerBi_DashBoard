@@ -30,7 +30,7 @@ Built for quick decision-making and operational insights using real-world-like f
 [![User Dashboard](https://github.com/ashish78566/PowerBi_DashBoard/blob/main/Zomato_DashBoard/DashBoard/Screenshot%202025-11-18%20172036.png)](https://github.com/ashish78566/PowerBi_DashBoard/blob/main/Zomato_DashBoard/DashBoard/Screenshot%202025-11-18%20172036.png)
 
 ### **City Performance Dashboard**
-![City Dashboard](./Screenshot_3.png)
+[![City Dashboard](https://github.com/ashish78566/PowerBi_DashBoard/blob/main/Zomato_DashBoard/DashBoard/Screenshot%202025-11-18%20172036.png)](https://github.com/ashish78566/PowerBi_DashBoard/blob/main/Zomato_DashBoard/DashBoard/Screenshot%202025-11-18%20172036.png)
 
 > Make sure your images are saved in the repo as:  
 > `Screenshot_1.png`, `Screenshot_2.png`, `Screenshot_3.png`  
