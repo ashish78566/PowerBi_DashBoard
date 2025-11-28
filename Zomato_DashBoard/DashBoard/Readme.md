@@ -1,104 +1,62 @@
-📊 Zomato Power BI Analytics Dashboard
+# 🍽️ Zomato Data Analytics Dashboard
 
-A complete end-to-end Power BI project analyzing Zomato sales, users, ratings, and city-level performance.
+An interactive end-to-end **Zomato Data Analytics Dashboard** built to analyze sales, user performance, and city-level insights.  
+This project provides a complete view of business KPIs such as **sales amount, order quantity, ratings, active users, city performance, and yearly sales trends**.
 
-📌 Project Overview
+---
 
-This project provides a comprehensive analysis of Zomato’s performance across multiple dimensions such as Sales, User Behavior, City Insights, and Food Category Trends.
-The dashboard helps stakeholders understand:
+## 📊 Project Overview
 
-Total Sales & Quantity
+This dashboard helps Zomato understand:
 
-User Engagement (Active, Gained & Lost Users)
+- ⭐ Total sales amount, order quantity & rating count  
+- 👤 User performance — Active users, new gained users, and lost users  
+- 🏙️ City-wise performance (sales value, rating count, active users)  
+- 🍽️ Category-wise trends (Veg, Non-Veg, Others)  
+- 📈 Yearly sales trends  
+- 🔍 Slice & filter using top 5, top 10, top 20 cities  
 
-Ratings Distribution
+Built for quick decision-making and operational insights using real-world-like food delivery data.
 
-City-wise Performance
+---
 
-Yearly Sales Trend
+## 🖼️ Dashboard Preview
 
-Category-wise Sale Insights
+### **Home / Sales Dashboard**
+![Zomato Dashboard](./Screenshot_1.png)
 
-🖼️ Dashboard Preview
-1️⃣ Sales Dashboard
-2️⃣ User Performance Dashboard
-3️⃣ City Performance Dashboard
-📌 Key Features
-⭐ Sales Overview
+### **User Performance Dashboard**
+![User Dashboard](./Screenshot_2.png)
 
-Total Sale Value: 987M
+### **City Performance Dashboard**
+![City Dashboard](./Screenshot_3.png)
 
-Total Quantity Sold: 2M
+> Make sure your images are saved in the repo as:  
+> `Screenshot_1.png`, `Screenshot_2.png`, `Screenshot_3.png`  
+> (Rename based on your actual file names.)
 
-Total Ratings: 148K
+---
 
-Total Orders: 150K
+## 🛠️ Tools & Technologies Used
 
-Category Performance (Veg, Non-Veg, Others)
+- **Power BI Desktop**  
+- **Power Query (Data Cleaning)**  
+- **DAX (Measures & Calculations)**  
+- **Excel / CSV Raw Data**  
+- **Custom Visuals & Advanced Filters**
 
-⭐ User Performance Insights
+---
 
-Active Users: 78K
+## 📌 Key Insights
 
-Total Users: 100K
+### 🔥 Sales & Category Insights
+- Total Sales Amount: **987M**  
+- Orders placed: **150K**  
+- Highest category contribution: **Veg (122M)**  
+- Non-Veg & Others follow in overall revenue and ratings.
 
-Ratings: 148K
-
-Orders: 150K
-
-Gained & Lost Users by gender
-
-Age-wise User Distribution
-
-⭐ City Performance
-
-City-wise Sale Value
-
-City-wise Ratings Count
-
-City-wise Active Users
-
-Top 10 Performing Cities
-
-Detailed Table with Sale, Orders & Ratings
-
-📈 Tools Used
-
-Power BI Desktop
-
-Power Query
-
-DAX for Calculations
-
-Data Modeling (Star Schema)
-
-📁 Files Included
-File Name	Description
-Zomato Dashboard.pbit	Power BI template with all visuals & model
-README.md	Project documentation
-Data Sources	Provided inside the PBIX
-🚀 How to Use
-
-Download the .pbit file
-
-Open using Power BI Desktop
-
-Load data or connect to your source
-
-Explore insights in 3 dashboards (Sales, User, City)
-
-📌 Insights Summary
-
-Tirupati leads in sales with over 42M revenue
-
-Most ratings come from Bikaner and Noida-1
-
-Male users show higher gain and loss trends
-
-Sales peaked in 2018 at 0.41B
-
-Veg items are the top-selling category (122M)
-
-🎯 Conclusion
-
-The Zomato Power BI Dashboard provides a clear and interactive way to understand business performance. It showcases key trends, user behavior, and city-level sales insights to support data-driven decision-making.
+### 👤 User Insights
+- 78K Active Users  
+- 12K New Users Gained  
+- 33K Users Lost  
+- Ma
