@@ -23,10 +23,11 @@ Built for quick decision-making and operational insights using real-world-like f
 ## 🖼️ Dashboard Preview
 
 ### **Home / Sales Dashboard**
-https://github.com/ashish78566/PowerBi_DashBoard/blob/main/Zomato_DashBoard/DashBoard/Screenshot%202025-11-18%20171206.png
+[![Sales Dashboard](https://github.com/ashish78566/PowerBi_DashBoard/blob/main/Zomato_DashBoard/DashBoard/Screenshot%202025-11-18%20171206.png)](https://github.com/ashish78566/PowerBi_DashBoard/blob/main/Zomato_DashBoard/DashBoard/Screenshot%202025-11-18%20171206.png)
+
 
 ### **User Performance Dashboard**
-![User Dashboard](./Screenshot_2.png)
+![User Dashboard])
 
 ### **City Performance Dashboard**
 ![City Dashboard](./Screenshot_3.png)
