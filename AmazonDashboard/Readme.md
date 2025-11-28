@@ -67,7 +67,7 @@ Visuals are very engaging. Use the images you uploaded to showcase the project.
 
 ### Amazon Sales Dashboard View
 
-![Amazon Dashboard Overview](Product%20view%20page.jpg-260306f2-e917-46db-90a2-66d8384266ce)
+![Amazon Dashboard Overview](https://github.com/ashish78566/PowerBi_DashBoard/blob/main/AmazonDashboard/Screenshot%202025-11-28%20205921.png)
 
 ### Detailed Product Metrics
 
